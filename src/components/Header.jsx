@@ -9,7 +9,7 @@ export default function Header() {
             <a href="https://github.com/tonoyondaweb" className="site">My GitHub</a>
             <button className="email">
                 <a href="mailto:iamtanaylodh@gmail.com">
-                    <i class="fa-solid fa-envelope"></i>
+                    <img src="src/assets/email.svg" alt="email icon" />
                     Email
                 </a>
             </button>
